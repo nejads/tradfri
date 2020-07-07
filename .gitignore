@@ -5,6 +5,7 @@ soroush-raspberry.private.key
 soroush-raspberry.public.key
 tradfri-pre-shared-key
 tradfri-secret-key
+ikea-smartlight/tradfri.cfg
 
 ### Linux ###
 *~
