@@ -1,11 +1,6 @@
 ### Project specific files ###
-root-CA.crt
-soroush-raspberry.cert.pem
-soroush-raspberry.private.key
-soroush-raspberry.public.key
-tradfri-pre-shared-key
-tradfri-secret-key
-ikea-smartlight/tradfri.cfg
+secrets/
+tradfri.cfg
 
 ### Linux ###
 *~
