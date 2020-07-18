@@ -1,5 +1,9 @@
 ### Project specific files ###
-secrets/
+secrets/root-CA.crt
+secrets/soroush-raspberry.cert.pem
+secrets/soroush-raspberry.private.key
+secrets/soroush-raspberry.public.key
+secrets/tradfri-secret-key
 tradfri.cfg
 
 ### Linux ###
@@ -151,3 +155,4 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+.gitsecret/keys/random_seed
